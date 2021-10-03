@@ -1,2 +1,2 @@
 # Python-Bible
- A collection of useful Python tools.
+ A collection of some useful Python tools.
