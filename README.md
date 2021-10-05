@@ -1,6 +1,6 @@
 # Python-Bible
 
- A collection of some useful Python tools made by me.
+ A collection of some useful Python tools.
 
 ## Repo Contents
 
@@ -14,6 +14,19 @@
   - [Recursion](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/recursion.ipynb)
   - [Linked lists](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/linked_lists.ipynb)
   - [Trees](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/trees.ipynb)
+
+## Contributions
+
+Contributions are very welcome!
+
+### Guidelines
+
+- Create a new repo folder if a relavant one is not present.
+- Try to add files in jupyter notebook format.
+  - Add markdown headers for relevant blocks of code.
+  - Include a ToC in the notebook, to navigate to the headers. Use this [tool](https://ecotrust-canada.github.io/markdown-toc/) if required.
+- Update Repo Contents and References sections in [readme.md](https://github.com/RohitNag11/Python-Bible).
+- Thanks!
 
 ## References
 
