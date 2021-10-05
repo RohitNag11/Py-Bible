@@ -14,6 +14,8 @@
   - [Recursion](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/recursion.ipynb)
   - [Linked lists](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/linked_lists.ipynb)
   - [Trees](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/trees.ipynb)
+  - [Search algorithms](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/Search%20Algorithms)
+    - [Binary search](https://github.com/RohitNag11/Python-Bible/blob/main/Data%20Structures%20%26%20Algorithms/Search%20Algorithms/binary_search.ipynb)
 
 ## Contributions
 
