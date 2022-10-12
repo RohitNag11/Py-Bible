@@ -1,4 +1,4 @@
-# Py-CheatSheet
+# Py-Bible
 
  A collection of some useful Python tools.
 
